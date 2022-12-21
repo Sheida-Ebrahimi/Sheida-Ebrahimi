@@ -5,9 +5,6 @@ I'm familiar with version control systems such as Git and have knowledge of data
 
 As an aspiring software developer, I am currently looking for co-op opportunities to further my knowledge and experience.
 
-🔭 I’m currently working on some side projects to improve my skills as a programmer.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheida-ebrahimi-siaghi-462a6321b) 
 
