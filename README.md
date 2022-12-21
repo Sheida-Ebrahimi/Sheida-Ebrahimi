@@ -1,4 +1,10 @@
 # 💫 About Me:
+I'm a Computer Science student at Ontario Tech University who can code in Python, C++ and Java. I have some experience with GUI's using the Tkinter library in Python and have done some data analysis using NumPy and Pandas library.
+
+I'm familiar with version control systems such as Git and have knowledge of data structures, algorithms and computer architecture.
+
+As an aspiring software developer, I am currently looking for co-op opportunities to further my knowledge and experience.
+
 🔭 I’m currently working on some side projects to improve my skills as a programmer.
 
 
