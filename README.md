@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm a Computer Science student at Ontario Tech University who can code in Python, C++ and Java. I have some experience with GUI's using the Tkinter library in Python and have done some data analysis using NumPy and Pandas library.<br><br>I'm familiar with version control systems such as Git and have knowledge of data structures, algorithms and computer architecture.<br><br>As an aspiring software developer, I am currently looking for co-op opportunities to further my knowledge and experience.
+I'm a second-year Computer Science student at Ontario Tech University who can code in Python, C++ and Java. I have done some data analysis using NumPy and Pandas library and have some experience with web applications using Spring Boot. Currently, I'm curious about web development and am working on some personal projects that would help me gain further understanding of it.
 
+I'm familiar with version control systems such as Git and have knowledge of data structures, algorithms and computer architecture.
+
+As an aspiring software developer, I am currently looking for co-op opportunities to further my knowledge and experience.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheida-ebrahimi-siaghi-462a6321b) 
