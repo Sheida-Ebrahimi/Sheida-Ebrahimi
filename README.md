@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second-year Computer Science student at Ontario Tech University who can code in Python, C++ and Java. I have done some data analysis using NumPy and Pandas library and have some experience with web applications using Spring Boot. Currently, I'm curious about web development and am working on some personal projects that would help me gain further understanding of it.<br><br>I'm familiar with version control systems such as Git and have knowledge of data structures, algorithms and computer architecture.<br><br>As an aspiring software developer, I am currently looking for co-op opportunities to further my knowledge and experience.
+I'm a second-year Computer Science student at Ontario Tech University who can code in Python, C++ and Java. I have some data analysis experience using NumPy and Pandas library and have some experience with web applications using Spring Boot. Currently, I'm curious about web development and am working on some personal projects that would help me gain further understanding of it.<br><br>I'm familiar with version control systems such as Git and have knowledge of data structures, algorithms and computer architecture.<br><br>As an aspiring software developer, I am currently looking for co-op opportunities to further my knowledge and experience.
 
 
 ## 🌐 Socials:
