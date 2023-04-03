@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm a second-year Computer Science student at Ontario Tech University with a passion for software development. I specialize in Python, C++, and Java, and have hands-on experience in data analysis using NumPy and Pandas libraries. Additionally, I've worked with Spring Boot to create web applications, and I'm currently exploring web development through personal projects.
+Hi there, I'm a second-year Computer Science student at Ontario Tech University with a passion for software development. I specialize in Python, C++, and Java, and have hands-on experience in data analysis using NumPy and Pandas libraries. Additionally, I've worked with Spring Boot to create web applications, and I'm currently exploring web development through some personal projects.
 
 I'm familiar with Git and version control systems, and I possess a strong foundation in computer architecture, algorithms, and data structures. As an aspiring software developer, I'm constantly seeking opportunities to improve my skills, and I'm actively searching for co-op opportunities to gain practical experience.
 
