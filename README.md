@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third-year Computer Science student at Ontario Tech University. <br>I mainly focus on front-end development. Always looking to learn more.
+I'm a third-year Computer Science student at Ontario Tech University. I mainly focus on front-end development. Always looking to learn more.
 
 
 ## 🌐 Socials:
