@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a third-year Computer Science student at Ontario Tech University. Always looking to learn more!
+I'm a fourth-year Computer Science student at Ontario Tech University. Always looking to learn more!
+
+###### Currently on a 16-month internship, I won't be able to commit much here.
 
 
 ## 🌐 Socials:
