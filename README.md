@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a final-year Computer Science student at Ontario Tech University. Always looking to learn more! I just finished a 16-month internship, so I'm back to contributing to my projects, which you can view here:
-
+I'm a Computer Science graduate from Ontario Tech University with experience as a software developer. Always looking to learn more! 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheida-ebrahimi-siaghi-462a6321b/) 
